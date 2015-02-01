@@ -4,12 +4,6 @@ Python Skript für Berechnung von Primzahlen (Sieb des Eratosthenes), des größ
 # Benutzung
 python math.py [-ppfgkh] VALUE1 VALUE2
 
-Befehle:
--p  --prim    Berechnet alle Primzahlen bis zur Angegebenen Zahl"
--pf --primfak Berechnet die Primfaktorzerlegung der Ang. Zahl"
---ggT-prim    Berechnet den ggT zweier Zahlen mit Primzahlen (langsamer!)"
--g --ggT      Berechnet den ggT zweier Zahlen"
--k --kgV      Berechnet den kgV zweier Zahlen"
--h --help     Zeigt diese Hilfe \n"
+Auflistung aller Befehle mit: python math.py -h
 
 ! Für die Berechnung des ggT gilt: VALUE1 >= VALUE2 !
